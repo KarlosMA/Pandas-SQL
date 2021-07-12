@@ -9,7 +9,7 @@ El contenido de la clase se dividira en dos partes. Una primera focalizada en la
 1. [Pandas](#Pandas)
     1. [Enlaces](#Enlaces)
 3. [Bases de datos](#BasesdeDatos)
-    1. [Enlaces] (#Enlaces2)
+    1. [Enlaces](#Enlaces2)
 
 
 
