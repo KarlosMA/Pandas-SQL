@@ -36,3 +36,6 @@ Una base de datos es una herramienta para recopilar y organizar información. La
 - [sqlite](https://docs.python.org/3/library/sqlite3.html). Libreria estandar para el SGBD Sqlite.
 - [PostgreSQL](https://pypi.org/project/psycopg2/). Libreria para el SGBD PostgreSQL.
 - [SQLAlchemy](https://www.sqlalchemy.org/). Libreria del ORM SqlAlchemy.
+
+
+mail: carlosm@deducedatasolutions.com
